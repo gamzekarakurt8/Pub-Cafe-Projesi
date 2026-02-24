@@ -1,0 +1,6 @@
+@CafeUygulamasi_HostAddress = http://localhost:5140
+
+GET {{CafeUygulamasi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

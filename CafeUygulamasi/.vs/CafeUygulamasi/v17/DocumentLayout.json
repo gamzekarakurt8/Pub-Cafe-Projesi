@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|c:\\users\\gmzek\\onedrive\\masa\u00FCst\u00FC\\pub - kafe projesi\\cafeuygulamasi\\cafeuygulamasi\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|solutionrelative:cafeuygulamasi\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|c:\\users\\gmzek\\onedrive\\masa\u00FCst\u00FC\\pub - kafe projesi\\cafeuygulamasi\\cafeuygulamasi\\data\\cafedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|solutionrelative:cafeuygulamasi\\data\\cafedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|c:\\users\\gmzek\\onedrive\\masa\u00FCst\u00FC\\pub - kafe projesi\\cafeuygulamasi\\cafeuygulamasi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|solutionrelative:cafeuygulamasi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|c:\\users\\gmzek\\onedrive\\masa\u00FCst\u00FC\\pub - kafe projesi\\cafeuygulamasi\\cafeuygulamasi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|solutionrelative:cafeuygulamasi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|c:\\users\\gmzek\\onedrive\\masa\u00FCst\u00FC\\pub - kafe projesi\\cafeuygulamasi\\cafeuygulamasi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|solutionrelative:cafeuygulamasi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|c:\\users\\gmzek\\onedrive\\masa\u00FCst\u00FC\\pub - kafe projesi\\cafeuygulamasi\\cafeuygulamasi\\models\\dto\\dtoproductupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|solutionrelative:cafeuygulamasi\\models\\dto\\dtoproductupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|c:\\users\\gmzek\\onedrive\\masa\u00FCst\u00FC\\pub - kafe projesi\\cafeuygulamasi\\cafeuygulamasi\\models\\dto\\dtoproductcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|solutionrelative:cafeuygulamasi\\models\\dto\\dtoproductcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|c:\\users\\gmzek\\onedrive\\masa\u00FCst\u00FC\\pub - kafe projesi\\cafeuygulamasi\\cafeuygulamasi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|solutionrelative:cafeuygulamasi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|c:\\users\\gmzek\\onedrive\\masa\u00FCst\u00FC\\pub - kafe projesi\\cafeuygulamasi\\cafeuygulamasi\\models\\dto\\dtocategoryupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|solutionrelative:cafeuygulamasi\\models\\dto\\dtocategoryupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|c:\\users\\gmzek\\onedrive\\masa\u00FCst\u00FC\\pub - kafe projesi\\cafeuygulamasi\\cafeuygulamasi\\models\\dto\\dtocategorycreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|solutionrelative:cafeuygulamasi\\models\\dto\\dtocategorycreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|c:\\users\\gmzek\\onedrive\\masa\u00FCst\u00FC\\pub - kafe projesi\\cafeuygulamasi\\cafeuygulamasi\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|solutionrelative:cafeuygulamasi\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|c:\\users\\gmzek\\onedrive\\masa\u00FCst\u00FC\\pub - kafe projesi\\cafeuygulamasi\\cafeuygulamasi\\models\\dto\\dtomenuupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|solutionrelative:cafeuygulamasi\\models\\dto\\dtomenuupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|c:\\users\\gmzek\\onedrive\\masa\u00FCst\u00FC\\pub - kafe projesi\\cafeuygulamasi\\cafeuygulamasi\\models\\dto\\dtomenucreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|solutionrelative:cafeuygulamasi\\models\\dto\\dtomenucreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|c:\\users\\gmzek\\onedrive\\masa\u00FCst\u00FC\\pub - kafe projesi\\cafeuygulamasi\\cafeuygulamasi\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|solutionrelative:cafeuygulamasi\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|c:\\users\\gmzek\\onedrive\\masa\u00FCst\u00FC\\pub - kafe projesi\\cafeuygulamasi\\cafeuygulamasi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|solutionrelative:cafeuygulamasi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|c:\\users\\gmzek\\onedrive\\masa\u00FCst\u00FC\\pub - kafe projesi\\cafeuygulamasi\\cafeuygulamasi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|solutionrelative:cafeuygulamasi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|c:\\users\\gmzek\\onedrive\\masa\u00FCst\u00FC\\pub - kafe projesi\\cafeuygulamasi\\cafeuygulamasi\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|solutionrelative:cafeuygulamasi\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|c:\\users\\gmzek\\onedrive\\masa\u00FCst\u00FC\\pub - kafe projesi\\cafeuygulamasi\\cafeuygulamasi\\models\\contactrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776FA3F9-3932-4876-8FB9-434633473FFB}|CafeUygulamasi\\CafeUygulamasi.csproj|solutionrelative:cafeuygulamasi\\models\\contactrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BranchController.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Controllers\\BranchController.cs",
+              "RelativeDocumentMoniker": "CafeUygulamasi\\Controllers\\BranchController.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Controllers\\BranchController.cs",
+              "RelativeToolTip": "CafeUygulamasi\\Controllers\\BranchController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowJsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:50:00.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "CafeUygulamasi\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "CafeUygulamasi\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAIwDsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T19:33:43.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Program.cs",
+              "RelativeDocumentMoniker": "CafeUygulamasi\\Program.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Program.cs",
+              "RelativeToolTip": "CafeUygulamasi\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T18:31:17.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DtoCategoryUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Models\\Dto\\DtoCategoryUpdate.cs",
+              "RelativeDocumentMoniker": "CafeUygulamasi\\Models\\Dto\\DtoCategoryUpdate.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Models\\Dto\\DtoCategoryUpdate.cs",
+              "RelativeToolTip": "CafeUygulamasi\\Models\\Dto\\DtoCategoryUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T19:33:00.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\appsettings.json",
+              "RelativeDocumentMoniker": "CafeUygulamasi\\appsettings.json",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\appsettings.json",
+              "RelativeToolTip": "CafeUygulamasi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-08T18:27:09.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CafeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Data\\CafeDbContext.cs",
+              "RelativeDocumentMoniker": "CafeUygulamasi\\Data\\CafeDbContext.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Data\\CafeDbContext.cs",
+              "RelativeToolTip": "CafeUygulamasi\\Data\\CafeDbContext.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAIwFMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T18:30:06.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DtoProductCreate.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Models\\Dto\\DtoProductCreate.cs",
+              "RelativeDocumentMoniker": "CafeUygulamasi\\Models\\Dto\\DtoProductCreate.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Models\\Dto\\DtoProductCreate.cs",
+              "RelativeToolTip": "CafeUygulamasi\\Models\\Dto\\DtoProductCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T19:41:44.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DtoProductUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Models\\Dto\\DtoProductUpdate.cs",
+              "RelativeDocumentMoniker": "CafeUygulamasi\\Models\\Dto\\DtoProductUpdate.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Models\\Dto\\DtoProductUpdate.cs",
+              "RelativeToolTip": "CafeUygulamasi\\Models\\Dto\\DtoProductUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T19:42:19.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CafeUygulamasi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CafeUygulamasi\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T19:42:47.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DtoCategoryCreate.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Models\\Dto\\DtoCategoryCreate.cs",
+              "RelativeDocumentMoniker": "CafeUygulamasi\\Models\\Dto\\DtoCategoryCreate.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Models\\Dto\\DtoCategoryCreate.cs",
+              "RelativeToolTip": "CafeUygulamasi\\Models\\Dto\\DtoCategoryCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T19:32:21.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "CafeUygulamasi\\Models\\Branch.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Models\\Branch.cs",
+              "RelativeToolTip": "CafeUygulamasi\\Models\\Branch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T18:29:13.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CafeUygulamasi\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Models\\Product.cs",
+              "RelativeToolTip": "CafeUygulamasi\\Models\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T18:28:55.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CafeUygulamasi\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Models\\Category.cs",
+              "RelativeToolTip": "CafeUygulamasi\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T18:28:19.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "CafeUygulamasi\\Models\\Menu.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Models\\Menu.cs",
+              "RelativeToolTip": "CafeUygulamasi\\Models\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T18:27:55.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "CafeUygulamasi\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "CafeUygulamasi\\Controllers\\MenuController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAwwEIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T18:46:34.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DtoMenuUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Models\\Dto\\DtoMenuUpdate.cs",
+              "RelativeDocumentMoniker": "CafeUygulamasi\\Models\\Dto\\DtoMenuUpdate.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Models\\Dto\\DtoMenuUpdate.cs",
+              "RelativeToolTip": "CafeUygulamasi\\Models\\Dto\\DtoMenuUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T19:25:09.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DtoMenuCreate.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Models\\Dto\\DtoMenuCreate.cs",
+              "RelativeDocumentMoniker": "CafeUygulamasi\\Models\\Dto\\DtoMenuCreate.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Models\\Dto\\DtoMenuCreate.cs",
+              "RelativeToolTip": "CafeUygulamasi\\Models\\Dto\\DtoMenuCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T19:12:06.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ContactRequest.cs",
+              "DocumentMoniker": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Models\\ContactRequest.cs",
+              "RelativeDocumentMoniker": "CafeUygulamasi\\Models\\ContactRequest.cs",
+              "ToolTip": "C:\\Users\\gmzek\\OneDrive\\Masa\u00FCst\u00FC\\Pub - Kafe Projesi\\CafeUygulamasi\\CafeUygulamasi\\Models\\ContactRequest.cs",
+              "RelativeToolTip": "CafeUygulamasi\\Models\\ContactRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T18:29:37.841Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

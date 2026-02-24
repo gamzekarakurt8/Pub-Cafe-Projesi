@@ -1,0 +1,554 @@
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.csproj.AssemblyReference.cache
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.AssemblyInfoInputs.cache
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.AssemblyInfo.cs
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.csproj.CoreCompileInputs.cache
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/appsettings.json
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/CafeUygulamasi.exe
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/CafeUygulamasi.deps.json
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/CafeUygulamasi.runtimeconfig.json
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/CafeUygulamasi.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/CafeUygulamasi.pdb
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Humanizer.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/MySqlConnector.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/staticwebassets/msbuild.CafeUygulamasi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/staticwebassets/msbuild.build.CafeUygulamasi.props
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.CafeUygulamasi.props
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.CafeUygulamasi.props
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/scopedcss/bundle/CafeUygulamasi.styles.css
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygu.1736867F.Up2Date
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/refint/CafeUygulamasi.dll
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.pdb
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.genruntimeconfig.cache
+C:/Users/gmzek/OneDrive/Masaüstü/CafeApi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/ref/CafeUygulamasi.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/appsettings.Development.json
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/appsettings.json
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/CafeUygulamasi.staticwebassets.endpoints.json
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/CafeUygulamasi
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/CafeUygulamasi.deps.json
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/CafeUygulamasi.runtimeconfig.json
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/CafeUygulamasi.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/CafeUygulamasi.pdb
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Humanizer.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/MySqlConnector.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/System.CodeDom.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.csproj.AssemblyReference.cache
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.AssemblyInfoInputs.cache
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.AssemblyInfo.cs
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.csproj.CoreCompileInputs.cache
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.MvcApplicationPartsAssemblyInfo.cs
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.MvcApplicationPartsAssemblyInfo.cache
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/scopedcss/bundle/CafeUygulamasi.styles.css
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/staticwebassets.build.json
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/staticwebassets.build.json.cache
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/staticwebassets.development.json
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/swae.build.ex.cache
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygu.1736867F.Up2Date
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/refint/CafeUygulamasi.dll
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.pdb
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.genruntimeconfig.cache
+/Users/borauysal/Desktop/Projeler/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/ref/CafeUygulamasi.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.csproj.AssemblyReference.cache
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.AssemblyInfoInputs.cache
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.AssemblyInfo.cs
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.csproj.CoreCompileInputs.cache
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.MvcApplicationPartsAssemblyInfo.cs
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.MvcApplicationPartsAssemblyInfo.cache
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/refint/CafeUygulamasi.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.pdb
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/appsettings.Development.json
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/CafeUygulamasi.staticwebassets.endpoints.json
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/appsettings.json
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/CafeUygulamasi
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/CafeUygulamasi.deps.json
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/CafeUygulamasi.runtimeconfig.json
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/CafeUygulamasi.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/CafeUygulamasi.pdb
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Humanizer.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/MySqlConnector.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/System.CodeDom.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/scopedcss/bundle/CafeUygulamasi.styles.css
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/staticwebassets.build.json
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/staticwebassets.build.json.cache
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/staticwebassets.development.json
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/swae.build.ex.cache
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygu.1736867F.Up2Date
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.genruntimeconfig.cache
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/ref/CafeUygulamasi.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/appsettings.json
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/CafeUygulamasi.exe
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/CafeUygulamasi.deps.json
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/CafeUygulamasi.runtimeconfig.json
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/CafeUygulamasi.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/CafeUygulamasi.pdb
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Humanizer.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/MySqlConnector.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.csproj.AssemblyReference.cache
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.AssemblyInfoInputs.cache
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.AssemblyInfo.cs
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.csproj.CoreCompileInputs.cache
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/staticwebassets/msbuild.CafeUygulamasi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/staticwebassets/msbuild.build.CafeUygulamasi.props
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.CafeUygulamasi.props
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.CafeUygulamasi.props
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/scopedcss/bundle/CafeUygulamasi.styles.css
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygu.1736867F.Up2Date
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/refint/CafeUygulamasi.dll
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.pdb
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/CafeUygulamasi.genruntimeconfig.cache
+C:/Users/gmzek/OneDrive/Masaüstü/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/obj/Debug/net8.0/ref/CafeUygulamasi.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/AWSSDK.Core.dll
+/Users/borauysal/Desktop/Projeler/Pub - Kafe Projesi/CafeUygulamasi/CafeUygulamasi/bin/Debug/net8.0/AWSSDK.S3.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\appsettings.json
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\CafeUygulamasi.exe
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\CafeUygulamasi.deps.json
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\CafeUygulamasi.runtimeconfig.json
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\CafeUygulamasi.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\CafeUygulamasi.pdb
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\AWSSDK.S3.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\Humanizer.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\obj\Debug\net8.0\CafeUygulamasi.csproj.AssemblyReference.cache
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\obj\Debug\net8.0\CafeUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\obj\Debug\net8.0\CafeUygulamasi.AssemblyInfoInputs.cache
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\obj\Debug\net8.0\CafeUygulamasi.AssemblyInfo.cs
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\obj\Debug\net8.0\CafeUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\obj\Debug\net8.0\CafeUygulamasi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\obj\Debug\net8.0\CafeUygulamasi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\obj\Debug\net8.0\staticwebassets\msbuild.CafeUygulamasi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\obj\Debug\net8.0\staticwebassets\msbuild.build.CafeUygulamasi.props
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CafeUygulamasi.props
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CafeUygulamasi.props
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\obj\Debug\net8.0\scopedcss\bundle\CafeUygulamasi.styles.css
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\obj\Debug\net8.0\CafeUygu.1736867F.Up2Date
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\obj\Debug\net8.0\CafeUygulamasi.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\obj\Debug\net8.0\refint\CafeUygulamasi.dll
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\obj\Debug\net8.0\CafeUygulamasi.pdb
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\obj\Debug\net8.0\CafeUygulamasi.genruntimeconfig.cache
+C:\Users\gmzek\OneDrive\Masaüstü\Pub - Kafe Projesi\CafeUygulamasi\CafeUygulamasi\obj\Debug\net8.0\ref\CafeUygulamasi.dll
